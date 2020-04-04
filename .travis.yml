@@ -3,7 +3,7 @@ language: python
 addons:
   sonarcloud:
     organization: "ler0i"
-    token: 92ec8179fd85588f7eeed838c7ffa450f3ce5062
+    token: 4Paf14hA6BMMiILzWXWsdg
 
 install: "pip install -r requirements.txt"
 
